@@ -8,6 +8,10 @@
 
 `omarchy-mac` brings the legendary **Omarchy Linux** tiling desktop aesthetic, acrylic glass status bars, dynamic theme switcher, and modal keybindings directly to macOS — requiring **zero SIP (System Integrity Protection) disabling**.
 
+<p align="center">
+  <img src="assets/preview.jpg" alt="Omarchy macOS Desktop Preview" width="100%" />
+</p>
+
 ---
 
 ## ✨ Features
