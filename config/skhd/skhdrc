@@ -1,0 +1,10 @@
+# Omarchy for macOS - skhd Hotkey Daemon Config
+
+# Launch Terminal
+cmd + alt - return : open -a Terminal
+
+# Launch Finder
+cmd + alt - e : open -a Finder
+
+# Launch Omarchy Theme Switcher
+cmd + alt - t : bash ~/.config/omarchy/scripts/theme-switcher.sh
